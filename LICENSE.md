@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Polymarket automation-script with Polymarket new Automation Script: risk-management & volatility-detection. Featuring risk-management and volatility-detection,
 
 
 
